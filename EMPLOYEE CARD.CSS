@@ -6,10 +6,10 @@
     padding-top: 25px;
     padding-bottom: 25px;
     background-color: greenyellow;
-
+    margin-left: 500px;
 }
 .HOLDER{
-    width: 70px;
+    width: 100px;
     height: 4px;
     border: 2px solid  white;
     border-radius: 3px;
@@ -28,8 +28,12 @@
 }
 .employee img{
     width: 150px;
-    height: 200px;
+    height: 160px;
     margin-left: 70px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+
     
     
 }
@@ -42,6 +46,4 @@
         padding-top: 15px;
         color: green;
         
-        
-    }
 }
